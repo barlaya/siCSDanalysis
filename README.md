@@ -1,0 +1,2 @@
+# siCSDanalysis
+Our project: Domokos Meszéna, Anna Barlay, Dorottya Cserpán, Kinga Tóth, Lucia Wittner, István Ulbert and Zoltán Somogyvári: Spatio-temporal membrane potential and resistive current reconstruction from parallel multielectrode array and intracellular measurements in single neurons, poster P10.11,  International Neuroscience Meeting, Budapest 2022 – IBRO Workshop, 27-28th January, Budapest, 2022
